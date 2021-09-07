@@ -64360,7 +64360,7 @@ aE:function(){var s=H.a([],t.gs),r=D.K2(null),q=F.aj0(),p=t.N,o=t.z,n=P.w(p,o)
 n.m(0,"transports",H.a(["websocket"],t.s))
 n.m(0,"autoConnect",!1)
 n.m(0,"extraHeaders",P.aa(["foo","bar"],p,o))
-return new R.Lu(s,r,q,U.aEr("http://49.246.38.99:5555/ns1",n),D.K2(null),C.l)}}
+return new R.Lu(s,r,q,U.aEr("https://api.minokuma.kro.kr/ns1",n),D.K2(null),C.l)}}
 R.Lu.prototype={
 gae:function(a){var s=this.x
 return s==null?H.d(H.u("height")):s},
