@@ -8,7 +8,7 @@ const RESOURCES = {
 "assets/assets/images/kakaotalk_logo_icon.svg": "8635f7c232a347ac8d0b85ba80b75bfe",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "fb2b56c5fc0c0f09ac6e74dbfe7e5967",
+"assets/NOTICES": "19db56db1227a2061f444fa656a093d9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "3241d1d9c15448a4da96df05f3292ffe",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "eaed33dc9678381a55cb5c13edaf241d",
@@ -18,9 +18,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d213fabe3a8757c4e722d4aa7016b47e",
-"/": "d213fabe3a8757c4e722d4aa7016b47e",
-"main.dart.js": "945d3281f0c991a4152f1ad44bf53426",
+"index.html": "70aff8ce55140c7c7714c46dac19642a",
+"/": "70aff8ce55140c7c7714c46dac19642a",
+"main.dart.js": "169c10467720b55ceea4c3f7ea49c47d",
 "manifest.json": "d5aa3f0419fc987b8d5321cc9f09b514",
 "version.json": "8865f0ad695536d7a8785602572beddd"
 };
